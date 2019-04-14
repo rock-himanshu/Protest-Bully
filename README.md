@@ -6,8 +6,10 @@ This extension is developed by **Himanshu Agarwal**, a Software Engineer who is 
 > ## Never Under Estimate the power of a common Software Developer.
 
 I am not an expert with Google Chrome Development and this is my first extension made ever.
-
+#Original Image
 <img src="how-it-works.png" alt="drawing" width="450"/> 
+#After Extension use
+<img src="how-it-works1.png" alt="drawing" width="450"/> 
 
 # Features
 - **Spoiler Blocking**: Searches entire web page and replaces Spoilers with text `##[TEXT BLOCKED: SPOILER DETECTED]`
