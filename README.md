@@ -1,4 +1,4 @@
-# protest bully: Hide +18 Content(Parent Control) - chrome Extension <img src="icon-ban18+.png" alt="🐺" width="64"/>
+# Protest Bully: Hide +18 Content(Parent Control) - chrome Extension <img src="icon-ban18+.png" alt="🐺" width="64"/>
 This extension will save you from reading any exploit content as well as visual images. <br/>
 
 This extension is developed by **Himanshu Agarwal**, a Software Engineer who is making world a better place by Contributing on  cool web projects, programming, data structures, algorithms, and more!  <br/>
