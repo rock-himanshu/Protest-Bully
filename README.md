@@ -1,4 +1,4 @@
-# Hide 18+ Content: Hide +18 Content(Parent Control) - chrome Extension <img src="icon-ban18+.png" alt="🐺" width="64"/>
+# protest bully: Hide +18 Content(Parent Control) - chrome Extension <img src="icon-ban18+.png" alt="🐺" width="64"/>
 This extension will save you from reading any exploit content as well as visual images. <br/>
 
 This extension is developed by **Himanshu Agarwal**, a Software Engineer who is making world a better place by Contributing on  cool web projects, programming, data structures, algorithms, and more!  <br/>
@@ -29,8 +29,8 @@ I am not an expert with Google Chrome Development and this is my first extension
 # Why this Chrome Extension exists?
 When I created this extension, its purpose was: 
 - An attempt to save other junior and childer from internet exploit use.
-- To solve the problem of spoilers as a Software Developer
-- To learn how to creat kick-ass Chrome Extensions
+- To solve the problem of restricted data under age as a Software Developer
+- To learn how to creat super cool Chrome Extensions
 
 # Can I contribute?
 Ofcourse! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
