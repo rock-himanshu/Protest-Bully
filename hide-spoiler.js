@@ -1,7 +1,7 @@
-kw = ['Big Ass','Sex','Latin MILF','MILF','Holes','Blonde','Seduced','Busty','hot','busty','brunette','Hardcore','blowjob','Taboo','stranger talk','dating','Dating','anal sex','milf','anus sex','arse','ass','ass fuck','ass hole','assfucker','asshole','big boob','boobs','blonde girl','sexy teen','sexy teens','musterbating','musterbation','assshole','bastard','bitch','black cock','cock','cockfucker','cocksuck','cocksucker','coonnass','crap','cunt','cyberfuck','damn','darn','dick','dirty','douche','dummy','erect','erection','erotic','escort','faggot','fuck','Fuck off','fuck you','fuckass','fuckhole','hard core','hardcore','homoerotic','lesbian','lesbians','mother fucker','motherfuck','motherfucker','nigger','orgasim','orgasm','penis','penisfucker','piss','piss off','porn','pornography','pussy','sex','sexy','slut','suck','tits','xxx','condom']
 tags = "SPANEMBIULOLI";
 total = 0;
-
+// These world are taken from web block list.
+kw = ['arse','ass','ass fuck','ass hole','assfucker','asshole','Taboo','stranger talk','dating','Dating','cyberfuck','damn','darn','brunette','Hardcore','blowjob','milf','anus sex','big boob','boobs','blonde girl','sexy teen','sexy teens','musterbating','musterbation','assshole','bastard','bitch','black cock','cock','cockfucker','cocksuck','cocksucker','coonnass','crap','cunt','dick','dirty','douche','dummy','erect','erection','erotic','escort','faggot','fuck','Fuck off','fuck you','fuckass','fuckhole','hard core','hardcore','homoerotic','lesbian','lesbians','mother fucker','motherfuck','motherfucker','nigger','orgasim','orgasm','penis','penisfucker','piss','piss off','porn','pornography','pussy','sex','sexy','slut','suck','tits','anal sex','xxx','condom','Big Ass','Sex','Latin MILF','MILF','Holes','Blonde','Seduced','Busty','hot','busty']
 for(var ii = 0; ii < kw.length; ii++)
 {
 	o = $(`:contains(${kw[ii]}):not(:has(:contains(${kw[ii]})))`)
